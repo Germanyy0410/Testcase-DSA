@@ -1,0 +1,200 @@
+REG eIbnXmLEzSWMxPIhJnjAFkeKnWnBtLvjToGDoHyhWiEtImTvpAlAWnKFGQhppcRuhFrvahOwaYmMsZB
+REG YBTIZCkHIJGFhujkAvYCGcFVRtTVCKzKxUAVWMtNJvavYznBrRXoCZzhEgupRvlNwssBmhhONCDhfsHFvSBfeUZWeZ
+PrintAVL
+CLE 16
+REG NLbPvaszvyMFrbefotzHDpoyLRXQuGEHkfNkHepwUnjqpuGWMlgZnXBLfezaWZMEFfZIQAXvbTP
+REG AaQdiBXKXiLbssKYVJTvdnBy
+PrintMH
+REG NLbPvaszvyMFrbefotzHDpoyLRXQuGEHkfNkHepwUnjqpuGWMlgZnXBLfezaWZMEFfZIQAXvbTP
+PrintMH
+CLE 13
+REG AaQdiBXKXiLbssKYVJTvdnBy
+PrintAVL
+REG qiXsYFjgWUIffcWWYfCfdGetuJqHojNhoFyvnSIcnXnIpyurJdSuhVyugYLcePszoPAIsMPlSmWlDlHANlKER
+PrintMH
+PrintHT
+CLE 11
+REG RygEQzYrBVSfySccpjrXAlejXSmAdcPUoffXsPJg
+REG uVNiDHcxPdYZVLlOZYNxPneMbbZScuUvdnGwNGGlbwKraVDKUyNsxMdCQofIlk
+REG eYUShVFMSiFwuKMGHrBraDvjSJdeJZLnaXjbBoSODOoioZDvC
+PrintHT
+PrintAVL
+REG KekTlvUljlCybwVWMObYRhABnlbIzK
+REG YBTIZCkHIJGFhujkAvYCGcFVRtTVCKzKxUAVWMtNJvavYznBrRXoCZzhEgupRvlNwssBmhhONCDhfsHFvSBfeUZWeZ
+REG YBTIZCkHIJGFhujkAvYCGcFVRtTVCKzKxUAVWMtNJvavYznBrRXoCZzhEgupRvlNwssBmhhONCDhfsHFvSBfeUZWeZ
+CLE 25
+REG PmqqUuyqCBlhwGcDZiTzkEYkiOfBcHovssiwfnbSDCcEmvPSQs
+PrintHT
+PrintAVL
+REG uVNiDHcxPdYZVLlOZYNxPneMbbZScuUvdnGwNGGlbwKraVDKUyNsxMdCQofIlk
+REG ubIIoMzMuw
+PrintHT
+PrintMH
+CLE 32
+REG KekTlvUljlCybwVWMObYRhABnlbIzK
+REG VflFJWqqIsSIXxtRfaZDIc
+REG ubIIoMzMuw
+PrintMH
+PrintMH
+CLE 21
+PrintAVL
+REG sohZNlKpxcUylCMNkSCvBXrQVsnmksGEZdRwsdUdQiuwzkCUjZfqoNXHCIHtA
+REG RygEQzYrBVSfySccpjrXAlejXSmAdcPUoffXsPJg
+REG VEjkYpXGNLAHgVBabQgoxDLRKBOoATVpoo
+REG PmqqUuyqCBlhwGcDZiTzkEYkiOfBcHovssiwfnbSDCcEmvPSQs
+PrintMH
+REG sohZNlKpxcUylCMNkSCvBXrQVsnmksGEZdRwsdUdQiuwzkCUjZfqoNXHCIHtA
+REG VflFJWqqIsSIXxtRfaZDIc
+PrintAVL
+REG ubIIoMzMuw
+CLE 3
+REG KagUHkksuIaBBimtUYCAtKtUbPoDtKinIMQRbyJQCuwtvdxNlsayVknJWXesqIIksSxuA
+PrintMH
+PrintMH
+REG eIbnXmLEzSWMxPIhJnjAFkeKnWnBtLvjToGDoHyhWiEtImTvpAlAWnKFGQhppcRuhFrvahOwaYmMsZB
+CLE 18
+PrintAVL
+CLE 6
+REG KagUHkksuIaBBimtUYCAtKtUbPoDtKinIMQRbyJQCuwtvdxNlsayVknJWXesqIIksSxuA
+REG ubIIoMzMuw
+REG pqZYHBaSzCp
+CLE 26
+REG KagUHkksuIaBBimtUYCAtKtUbPoDtKinIMQRbyJQCuwtvdxNlsayVknJWXesqIIksSxuA
+PrintMH
+REG pqZYHBaSzCp
+REG KagUHkksuIaBBimtUYCAtKtUbPoDtKinIMQRbyJQCuwtvdxNlsayVknJWXesqIIksSxuA
+PrintAVL
+PrintMH
+PrintAVL
+PrintAVL
+PrintMH
+REG pqZYHBaSzCp
+REG ubIIoMzMuw
+CLE 20
+REG GjGhUgvvQkbUFITyRH
+CLE 17
+CLE 14
+CLE 20
+CLE 29
+PrintHT
+REG NLbPvaszvyMFrbefotzHDpoyLRXQuGEHkfNkHepwUnjqpuGWMlgZnXBLfezaWZMEFfZIQAXvbTP
+PrintAVL
+REG NLbPvaszvyMFrbefotzHDpoyLRXQuGEHkfNkHepwUnjqpuGWMlgZnXBLfezaWZMEFfZIQAXvbTP
+CLE 2
+CLE 17
+PrintMH
+PrintAVL
+CLE 2
+REG gYlaHgRNVYFTqpDvsJAQRUaoMwjNOCCosfff
+PrintAVL
+REG spqaxiFJqFcyvlIhzBfjymsZOZYAEXREbPXvwKzZncEPiBYtJoKUHSynPBPKcWTUjazwsAsSzt
+CLE 20
+CLE 27
+PrintHT
+PrintAVL
+PrintMH
+PrintAVL
+REG NLbPvaszvyMFrbefotzHDpoyLRXQuGEHkfNkHepwUnjqpuGWMlgZnXBLfezaWZMEFfZIQAXvbTP
+PrintAVL
+REG eIbnXmLEzSWMxPIhJnjAFkeKnWnBtLvjToGDoHyhWiEtImTvpAlAWnKFGQhppcRuhFrvahOwaYmMsZB
+PrintAVL
+CLE 14
+CLE 31
+REG pqZYHBaSzCp
+PrintMH
+PrintHT
+REG AaQdiBXKXiLbssKYVJTvdnBy
+CLE 31
+CLE 14
+REG lSkcLRviiGusxzWpqYKVRFfWGALkpalnUdkBbOisAdxmQwufZpIoXbEdDujZT
+CLE 6
+CLE 14
+REG unwnvRBqnCzEWKcDZxEfLkUoTEpYBXfzRNSYZyrXQaXEGozQosTJWtJtwbT
+REG GjGhUgvvQkbUFITyRH
+REG KekTlvUljlCybwVWMObYRhABnlbIzK
+REG IyfMkjKqvsz
+REG AaQdiBXKXiLbssKYVJTvdnBy
+CLE 31
+PrintHT
+PrintAVL
+REG VEjkYpXGNLAHgVBabQgoxDLRKBOoATVpoo
+REG VflFJWqqIsSIXxtRfaZDIc
+CLE 10
+PrintHT
+PrintHT
+CLE 22
+REG eYUShVFMSiFwuKMGHrBraDvjSJdeJZLnaXjbBoSODOoioZDvC
+CLE 24
+PrintHT
+CLE 4
+REG NLbPvaszvyMFrbefotzHDpoyLRXQuGEHkfNkHepwUnjqpuGWMlgZnXBLfezaWZMEFfZIQAXvbTP
+CLE 20
+PrintHT
+REG sohZNlKpxcUylCMNkSCvBXrQVsnmksGEZdRwsdUdQiuwzkCUjZfqoNXHCIHtA
+REG pqZYHBaSzCp
+REG rdQhnBozHEtgNeSQOFydDIUCCfmVMkoTcUoGMwWLypvk
+REG pqZYHBaSzCp
+REG AaQdiBXKXiLbssKYVJTvdnBy
+REG YBTIZCkHIJGFhujkAvYCGcFVRtTVCKzKxUAVWMtNJvavYznBrRXoCZzhEgupRvlNwssBmhhONCDhfsHFvSBfeUZWeZ
+REG IyfMkjKqvsz
+CLE 10
+REG AaQdiBXKXiLbssKYVJTvdnBy
+PrintMH
+CLE 31
+REG RygEQzYrBVSfySccpjrXAlejXSmAdcPUoffXsPJg
+PrintHT
+CLE 24
+REG YBTIZCkHIJGFhujkAvYCGcFVRtTVCKzKxUAVWMtNJvavYznBrRXoCZzhEgupRvlNwssBmhhONCDhfsHFvSBfeUZWeZ
+PrintAVL
+REG ubIIoMzMuw
+REG RygEQzYrBVSfySccpjrXAlejXSmAdcPUoffXsPJg
+REG ubIIoMzMuw
+REG RniuiUsvcYTjjSwQPAhNvjddrc
+REG lSkcLRviiGusxzWpqYKVRFfWGALkpalnUdkBbOisAdxmQwufZpIoXbEdDujZT
+PrintHT
+CLE 8
+PrintAVL
+PrintMH
+REG spqaxiFJqFcyvlIhzBfjymsZOZYAEXREbPXvwKzZncEPiBYtJoKUHSynPBPKcWTUjazwsAsSzt
+CLE 0
+REG qiXsYFjgWUIffcWWYfCfdGetuJqHojNhoFyvnSIcnXnIpyurJdSuhVyugYLcePszoPAIsMPlSmWlDlHANlKER
+CLE 9
+REG sohZNlKpxcUylCMNkSCvBXrQVsnmksGEZdRwsdUdQiuwzkCUjZfqoNXHCIHtA
+REG GjGhUgvvQkbUFITyRH
+REG RniuiUsvcYTjjSwQPAhNvjddrc
+PrintMH
+CLE 22
+PrintAVL
+CLE 18
+PrintAVL
+PrintAVL
+REG uVNiDHcxPdYZVLlOZYNxPneMbbZScuUvdnGwNGGlbwKraVDKUyNsxMdCQofIlk
+REG GjGhUgvvQkbUFITyRH
+PrintMH
+PrintAVL
+REG eIbnXmLEzSWMxPIhJnjAFkeKnWnBtLvjToGDoHyhWiEtImTvpAlAWnKFGQhppcRuhFrvahOwaYmMsZB
+CLE 33
+PrintAVL
+REG sohZNlKpxcUylCMNkSCvBXrQVsnmksGEZdRwsdUdQiuwzkCUjZfqoNXHCIHtA
+CLE 6
+REG PmqqUuyqCBlhwGcDZiTzkEYkiOfBcHovssiwfnbSDCcEmvPSQs
+PrintAVL
+REG AaQdiBXKXiLbssKYVJTvdnBy
+PrintAVL
+CLE 22
+CLE 2
+CLE 17
+PrintMH
+REG VflFJWqqIsSIXxtRfaZDIc
+CLE 12
+CLE 10
+REG KekTlvUljlCybwVWMObYRhABnlbIzK
+CLE 29
+REG KekTlvUljlCybwVWMObYRhABnlbIzK
+PrintAVL
+REG KagUHkksuIaBBimtUYCAtKtUbPoDtKinIMQRbyJQCuwtvdxNlsayVknJWXesqIIksSxuA
+CLE 13
+REG KagUHkksuIaBBimtUYCAtKtUbPoDtKinIMQRbyJQCuwtvdxNlsayVknJWXesqIIksSxuA
+CLE 24
+REG uVNiDHcxPdYZVLlOZYNxPneMbbZScuUvdnGwNGGlbwKraVDKUyNsxMdCQofIlk
+REG RniuiUsvcYTjjSwQPAhNvjddrc
