@@ -1,0 +1,200 @@
+PrintHT
+PrintMH
+PrintMH
+REG oAvDWubXtPHZwGVy
+PrintAVL
+REG IqctEfJhlaEXwaZcveysZMPjrpewQDPKHfo
+CLE 26
+PrintAVL
+REG KYOpQMjLBGCEZkxvkBXR
+PrintHT
+REG optyPRVEGgKNzDOyljxHKg
+PrintHT
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+CLE 4
+REG optyPRVEGgKNzDOyljxHKg
+PrintMH
+CLE 32
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+PrintAVL
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+CLE 18
+PrintAVL
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+PrintMH
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+CLE 2
+REG optyPRVEGgKNzDOyljxHKg
+REG NBLKkDbR
+REG NBLKkDbR
+REG aLACiMJPhIjcBMxgYHMkTICGDcdmbZitnGYyiAIIXHnhAZoQWTKM
+PrintAVL
+PrintHT
+CLE 18
+CLE 12
+REG IqctEfJhlaEXwaZcveysZMPjrpewQDPKHfo
+CLE 13
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+CLE 27
+CLE 2
+PrintHT
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG fdGioBBafwTUKlnWDPmNnIzJDXAQLJNtSnMpEaQwWvZc
+PrintMH
+CLE 15
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+CLE 6
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+PrintMH
+PrintAVL
+REG NBLKkDbR
+CLE 19
+PrintHT
+CLE 24
+CLE 19
+REG optyPRVEGgKNzDOyljxHKg
+CLE 28
+PrintAVL
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+PrintAVL
+REG NBLKkDbR
+REG UhKikTelzVLdeq
+CLE 14
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+PrintAVL
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+CLE 3
+PrintMH
+CLE 7
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+REG NBLKkDbR
+PrintHT
+CLE 11
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+CLE 27
+PrintMH
+PrintHT
+PrintAVL
+CLE 22
+PrintHT
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+REG KYOpQMjLBGCEZkxvkBXR
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG NBLKkDbR
+REG NBLKkDbR
+PrintMH
+REG NBLKkDbR
+PrintMH
+REG aLACiMJPhIjcBMxgYHMkTICGDcdmbZitnGYyiAIIXHnhAZoQWTKM
+PrintAVL
+PrintHT
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+CLE 29
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+CLE 15
+CLE 25
+PrintMH
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+PrintMH
+REG KYOpQMjLBGCEZkxvkBXR
+PrintAVL
+PrintHT
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+PrintMH
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+REG fdGioBBafwTUKlnWDPmNnIzJDXAQLJNtSnMpEaQwWvZc
+CLE 11
+CLE 32
+CLE 17
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+CLE 15
+PrintMH
+REG aLACiMJPhIjcBMxgYHMkTICGDcdmbZitnGYyiAIIXHnhAZoQWTKM
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+CLE 3
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG oAvDWubXtPHZwGVy
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG oAvDWubXtPHZwGVy
+CLE 6
+REG WQzsAcKmtXgvbmhuqlHvcHmVfeb
+REG IqctEfJhlaEXwaZcveysZMPjrpewQDPKHfo
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+REG oAvDWubXtPHZwGVy
+REG aLACiMJPhIjcBMxgYHMkTICGDcdmbZitnGYyiAIIXHnhAZoQWTKM
+REG aLACiMJPhIjcBMxgYHMkTICGDcdmbZitnGYyiAIIXHnhAZoQWTKM
+PrintHT
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+REG KYOpQMjLBGCEZkxvkBXR
+CLE 6
+CLE 29
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG oAvDWubXtPHZwGVy
+REG oAvDWubXtPHZwGVy
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+REG UhKikTelzVLdeq
+PrintMH
+PrintHT
+CLE 23
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+PrintHT
+PrintMH
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+CLE 13
+PrintHT
+PrintMH
+REG oAvDWubXtPHZwGVy
+REG lekHNkGWXYEVtthzBPvlYQTGsSdTYEfugtccDaNZqMoKPdjUBBmOIMupzJlaaMBeMTeMTRGrqTkHtsKXbOxVLyv
+REG UhKikTelzVLdeq
+CLE 24
+PrintAVL
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+PrintMH
+CLE 5
+REG NBLKkDbR
+PrintMH
+CLE 16
+CLE 28
+REG oxOkXrkuYbOTiiQYUiZAMwhZugZzzUz
+REG fdGioBBafwTUKlnWDPmNnIzJDXAQLJNtSnMpEaQwWvZc
+CLE 7
+PrintAVL
+CLE 9
+REG oAvDWubXtPHZwGVy
+PrintAVL
+PrintMH
+PrintAVL
+CLE 23
+PrintAVL
+PrintAVL
+PrintAVL
+REG optyPRVEGgKNzDOyljxHKg
+PrintAVL
+REG oAvDWubXtPHZwGVy
+PrintAVL
+PrintMH
+PrintAVL
+PrintMH
+CLE 13
+CLE 2
+PrintAVL
+PrintMH
+CLE 15
+CLE 5
+REG IZMCEthqleExiQgwzRsEoiIMAKeDYrCafIOS
+REG optyPRVEGgKNzDOyljxHKg
+REG NBLKkDbR
+CLE 9
+CLE 14
+PrintAVL
+REG lFdYCCpKtAvzdsSGIdziGVqkRZQaaJrrkyzjr
+REG fdGioBBafwTUKlnWDPmNnIzJDXAQLJNtSnMpEaQwWvZc
+PrintAVL
